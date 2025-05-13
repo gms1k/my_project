@@ -86,3 +86,4 @@ plt.title('Максимізація функції за допомогою ГА'
 plt.legend()
 plt.grid()
 plt.show()
+# ЗМіна №2
