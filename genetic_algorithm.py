@@ -87,3 +87,4 @@ plt.legend()
 plt.grid()
 plt.show()
 # Ось ТАКА змінА
+
